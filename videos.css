@@ -6,6 +6,9 @@
 img{
 	max-width: 300%;
 }
+body , html{
+	overflow-x: hidden;
+}
 .header{
 	min-height: 70vh;
 	width: 100%;
